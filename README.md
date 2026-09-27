@@ -43,7 +43,6 @@ The primary objective of this project is to analyze multi-year enterprise datase
 
 ## 📁 Repository Structure & Deliverables
 * 📄 **[View Master PDF Report](./Sales_and_Finance_Analytics.pdf)** — Executive report ready for quick viewing inside GitHub.
-* 📊 **[Download Master Excel Workbook](./AtliQ_Sales_And_Finance_Analytics.xlsx)** — Interactive Excel workbook with data model, pivot tables, and reports.
 
 ## 🤝 Acknowledgments
 Special thanks to **Dhaval Patel**, **Hemanand Vadivel**, and the **Codebasics** team for providing the structured business case study, dataset, and operational guidance.
