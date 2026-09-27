@@ -54,6 +54,6 @@ The primary objective of this project is to analyze multi-year enterprise datase
 * **Regional Supply Chain Cost Control:** Focus on COGS reduction strategies in sub-zones showing sharp GM% declines (ANZ and India).
 
 # Repository Structure & Deliverables
-*  
-*  **`AtliQ_Sales_and_Finance_Analytics.xlsx`** — Interactive Excel workbook with data model, pivot tables, and reports.
-*  **`README.md`** — Documentation and summary.
+
+*  **[View Master PDF Report]()** — Executive report ready for quick viewing inside GitHub.
+*  **[Download Master Excel Workbook](./reports/AtliQ_Sales_and_Finance_Analytics.xlsx)** — Dynamic Excel file with Power Query model, Pivot Tables, and slicers.
