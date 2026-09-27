@@ -55,5 +55,4 @@ The primary objective of this project is to analyze multi-year enterprise datase
 
 # Repository Structure & Deliverables
 
-*  **[View Master PDF Report]()** — Executive report ready for quick viewing inside GitHub.
-*  **[Download Master Excel Workbook](./reports/AtliQ_Sales_and_Finance_Analytics.xlsx)** — Dynamic Excel file with Power Query model, Pivot Tables, and slicers.
+*  **[View Master PDF Report](Sales_and_Finance_Analytics.pdf)** — Executive report ready for quick viewing inside GitHub.
